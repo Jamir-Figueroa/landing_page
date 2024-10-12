@@ -607,11 +607,17 @@ table tbody tr td {
   text-decoration: none;
 }
 
+#navigation.navigation-style-2>.nav-logo {
+  float: left;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 #navigation.navigation-style-2 .nav-header #logo>h1 {
   font-size: 2em;
   line-height: 32px;
   font-weight: 400;
-  margin: 5px 0;
+  margin: 18px 0;
 }
 
 #navigation.navigation-style-2 .nav-header #nav-trigger {
