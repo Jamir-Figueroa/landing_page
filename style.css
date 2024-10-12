@@ -1070,5 +1070,7 @@ h2 {
   padding: 0;
 }
 
-/*Clase del Logo*/
-
+.navegation_logo {
+  width: 24px !important;
+  height: 24px !important;
+}
