@@ -845,6 +845,7 @@ table tbody tr td {
 /* 3.0 - Banners */
 .banner-section {
   margin-bottom: 50px;
+  padding: 0;
 }
 
 .banner-section .overlay>.container {
