@@ -24,6 +24,7 @@ var CODEXCODER = CODEXCODER || {};
 			CODEXCODER.initialize.testimonialToggler();
 			CODEXCODER.initialize.screenshotCarousel();
 			CODEXCODER.initialize.newsletterAjax();
+			new WOW().init();
 
 		},
 		defaults: function() {
