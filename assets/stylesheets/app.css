@@ -897,7 +897,8 @@ table tbody tr td {
   height: auto;
   position: absolute;
   bottom: 0px;
-  height: 75%;
+  right: 0px;
+  height: 70%;
 }
 
 @media (max-width: 410px) {
