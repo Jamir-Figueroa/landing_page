@@ -3161,8 +3161,7 @@ table tbody tr td {
 }
 
 .member-profile>.member-image {
-  width: 160px;
-  height: 160px;
+  width: 190px;
   background: #bdd1de;
   margin: 0 auto;
   border-radius: 50%;
@@ -3840,4 +3839,5 @@ body[class*="aw-ie"].menu-1-open #navigation.navigation-style-1.open {
 body[class*="aw-ie"] .timeline .article-item>.article-head .corner {
   display: none;
 }
+
 
