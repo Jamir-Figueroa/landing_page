@@ -3295,7 +3295,7 @@ table tbody tr td {
 /* 17.0 - Gradient Style */
 .gradient .overlay {
   background: -webkit-linear-gradient(0deg, rgba(219, 187, 87, 0.85) 0, rgba(61, 139, 125, 0.85) 100%);
-  background: linear-gradient(90deg, rgba(255, 39, 39, 0.85) 0, rgba(83, 179, 249, 0.85) 100%);
+  background: linear-gradient(90deg, rgba(255, 39, 39, 0.85) 0, rgba(83, 179, 249, 0.85) 100% );
 }
 
 .gradient .overlay .section-title {
@@ -3838,6 +3838,10 @@ body[class*="aw-ie"].menu-1-open #navigation.navigation-style-1.open {
 
 body[class*="aw-ie"] .timeline .article-item>.article-head .corner {
   display: none;
+}
+
+.row team-members {
+  margin-top: 2px;
 }
 
 
